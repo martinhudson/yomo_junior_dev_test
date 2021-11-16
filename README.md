@@ -1,6 +1,6 @@
 # yomo_junior_dev_test
 
-The purpose of this test is to evaluate the technical competence of the applicant. There is nothing in the test that is designed to trip up or catch out the candidate; it is intended to provide a typical requirement of a YoMo API endpoint.
+The purpose of this test is to evaluate the technical competence of the applicant. There is nothing in the test that is designed to trip you up or catch you out; it is intended to provide a typical requirement of a YoMo API endpoint.
 
 This test will explore the following:
 
@@ -9,11 +9,11 @@ This test will explore the following:
 - Asynchronous programming
 - Promise chains
 
-We are not looking for the most elegant or polished solution, we are trying to understand how **you** would tackle the problem, the **steps** you would take and of course, ultimately the stability and correct operation of your code. You will have one hour to complete the task.
+We are not looking for the most elegant or polished solution, we are trying to understand how **you** would tackle the problem, the **steps** you would take and of course, ultimately the stability and correct operation of your code. You will have one hour to complete the task once you're environment is up and you can run the example code provided to get you started.
 
 ## Pre-requisites:
 
-Working NodeJS, Typescript, Visual Studio Code environment, YoMo junior dev codebase
+Working npm, NodeJS, Typescript and Visual Studio Code environment.
 
 The example code to get you started can be downloaded from:
 
