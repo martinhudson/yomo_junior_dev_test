@@ -9,7 +9,7 @@ This test will explore the following:
 - Asynchronous programming
 - Promise chains
 
-We are not looking for the most elegant or polished solution, we are trying to understand how **you** would tackle the problem, the **steps** you would take and of course, ultimately the stability and correct operation of the test. You will have one hour to complete the task.
+We are not looking for the most elegant or polished solution, we are trying to understand how **you** would tackle the problem, the **steps** you would take and of course, ultimately the stability and correct operation of your code. You will have one hour to complete the task.
 
 ## Pre-requisites:
 
@@ -27,9 +27,7 @@ npm install the dependencies and start the server (npm run serve) using nodemon.
 
 ## Requirement:
 
-The requirement is to construct a service that returns the current conversion rate of a Crypto currency together with its conversion rate for each of the last 7 days.
-
-It is served in JSON format and is called from a RESTful endpoint
+The requirement is to construct a a RESTful endpoint that returns the current conversion rate of the specified crypto currency (e.g. BTC, ETH etc.) together with its conversion rate for each of the last 7 days in JSON format.
 
 You can use the following API endpoint:
 
