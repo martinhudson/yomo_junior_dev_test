@@ -27,7 +27,7 @@ npm install the dependencies and start the server (npm run serve) using nodemon.
 
 ## Requirement:
 
-The requirement is to construct a a RESTful endpoint that returns the current conversion rate of the specified crypto currency (e.g. BTC, ETH etc.) together with its conversion rate for each of the last 7 days in JSON format.
+The requirement is to construct a RESTful endpoint that returns the current conversion rate of the specified crypto currency (e.g. BTC, ETH etc.) together with its conversion rate for each of the last 7 days in JSON format.
 
 You can use the following API endpoint:
 
